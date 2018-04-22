@@ -9,7 +9,7 @@ En este portafolio se ubicarán los trabajaos realizados por Sergio Marín en su
   <img src=http://i.imgur.com/MsfcfyM.jpg">
 </p>
 
-
+https://imgur.com/gallery/MsfcfyM
 http://i.imgur.com/L45Q8c2.jpg"
 x
 

@@ -26,4 +26,4 @@ En este aparte se elaborarán ejercicio de series de tiempo con visualización e
   
   This apart contains recommendation systems buil over Scikit Learn or other libraries like surPRISE.
   
- - [Recommendation System Cross Booking]()
+ - [Recommendation System Cross Booking](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Recommendation%20systems/Recomendation_system_CrossBooking.ipynb)

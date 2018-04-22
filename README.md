@@ -1,2 +1,5 @@
-# Aprendiendo-Analitica.
-Blog aprendizaje en analítica
+# Portafolio camino de aprendizaje hacia un cientifico de datos.
+
+En este portafolio se ubicarán los trabajaos realizados por Sergio Marín en su camino de aprendizaje hacia ser un Cientifico de datos.
+
+

@@ -13,6 +13,6 @@ En este portafolio se ubicarán los trabajaos realizados por Sergio Marín en su
 
 En este aparte se elaborarán ejercicio de series de tiempo con visualización en Shiny.
 
-[]
+ - [Time Series Analisis with R](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Time%20Series/App%20V2%20-%2028092017.R)
 
 

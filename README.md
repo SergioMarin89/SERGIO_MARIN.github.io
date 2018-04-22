@@ -7,7 +7,7 @@ En este portafolio se ubicarán los trabajaos realizados por Sergio Marín en su
   <img src="https://i.imgur.com/MUuv4l5.jpg">
 <br/>
   
-# Times series with R and Shiny.
+### Times series with R and Shiny.
 
 </p>
 
@@ -20,7 +20,7 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png">
 <br/>
   
-  # Recommendation Systems
+  ### Recommendation Systems
   
   </P>
   
@@ -33,10 +33,10 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png">
 <br/>
 
-# Pre-processing data  - Dealing with missing values with Pandas.
+### Pre-processing data  - Dealing with missing values with Pandas.
 
 - [Dealing with messing values with Pandas](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/Missing%20values.ipynb)
 
-# Preprocessing EDA - Exploratory Data Analysis.
+### Preprocessing EDA - Exploratory Data Analysis.
 
 - [Risk and Returns]()

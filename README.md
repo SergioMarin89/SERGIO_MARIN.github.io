@@ -35,4 +35,4 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 # Pre-processing data  - Dealing with missing values with Pandas.
 
-- [Dealing with messing values with Pandas]()
+- [Dealing with messing values with Pandas](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/Missing%20values.ipynb)

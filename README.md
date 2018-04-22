@@ -6,7 +6,7 @@ En este portafolio se ubicarán los trabajaos realizados por Sergio Marín en su
 
 <br/>
 <p align="center">
-  <img src="http://i.imgur.com/L45Q8c2.jpg">
+  <img src="https://imgur.com/a/r8ttMPB">
 </p>
 
 

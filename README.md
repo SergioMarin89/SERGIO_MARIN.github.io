@@ -15,4 +15,15 @@ En este aparte se elaborarán ejercicio de series de tiempo con visualización e
 
  - [Time Series Analisis with R](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Time%20Series/App%20V2%20-%2028092017.R)
 
-
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/scikitlearn.png">
+<br/>
+  
+  # Recommendation Systems
+  
+  </P>
+  
+  This apart contains recommendation systems buil over Scikit Learn or other libraries like surPRISE.
+  
+  

@@ -26,4 +26,4 @@ En este aparte se elaborarán ejercicio de series de tiempo con visualización e
   
   This apart contains recommendation systems buil over Scikit Learn or other libraries like surPRISE.
   
-  
+ - [Recommendation System Cross Booking]()

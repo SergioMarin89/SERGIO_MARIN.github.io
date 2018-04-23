@@ -40,3 +40,7 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 ### Preprocessing EDA - Exploratory Data Analysis.
 
 - [Risk and Returns](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/EDA/Risk%20and%20returns.ipynb)
+
+### Preprocessing - List Comprehensions exersices.
+
+- [List_comprehension exercises](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/EDA/Risk%20and%20returns.ipynb)

@@ -27,6 +27,12 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
   En este aparte se elaborarán sistemas de recomendación sobre Scikit Learn u otras librarías como surPRISE.
   
  - [Recommendation System Cross Booking](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Recommendation%20systems/Recomendation_system_CrossBooking.ipynb)
+ 
+ ### Supervised Learning.
+ 
+ En este ejercicio se practiraon habilidades en importación web, limpieza de datos, exploratory data analisis EDA, algoritmos de clasificación,etc.
+ 
+ -[Supervised Machine Learning example] ()
 
 <br/>
 <p align="center">

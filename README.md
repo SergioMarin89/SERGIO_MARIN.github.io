@@ -53,3 +53,4 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 ### Preprocessing - Jugando con DataSets. World Development Indicators. 
 - [Practicando con grandes datasets.](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/WDI.ipynb)
+- [Zip() y tolist concepts]()

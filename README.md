@@ -57,7 +57,7 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 <br/>
 <p align="center">
-  <img src="https://i.imgur.com/WpenTS6.jpg">
+  <img src="https://i.imgur.com/ISXSvo0.png">
 <br/>
   
 ### Scraping the web with Python.

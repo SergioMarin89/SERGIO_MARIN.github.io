@@ -63,3 +63,5 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 ### Scraping the web with Python.
 
 - [Scraping the web wtih Python - Basics -](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Beautiful%20Soup/scraping_web_concepts.ipynb)
+
+- [Scraping resultados UEFA y comparando con reales](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Beautiful%20Soup/UEFA_scraping.ipynb)

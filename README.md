@@ -66,4 +66,4 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 - [Scraping resultados UEFA y comparando con reales](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Beautiful%20Soup/UEFA_scraping.ipynb)
 
-- [Scraping Weather]()
+- [Scraping Weather](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Beautiful%20Soup/scraping_weather.ipynb)

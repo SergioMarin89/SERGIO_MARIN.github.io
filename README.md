@@ -43,6 +43,8 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 - [Dealing with messing values with Pandas](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/Missing%20values.ipynb)
 
+- [Cleaning data - Gapminder Dataset](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/Gapminder_cleaning_exersice.ipynb)
+
 ### Preprocessing EDA - Exploratory Data Analysis.
 
 - [Risk and Returns](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/EDA/Risk%20and%20returns.ipynb)

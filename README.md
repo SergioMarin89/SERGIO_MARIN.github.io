@@ -73,7 +73,7 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 <br/>
 <p align="center">
-  <img src="[Imgur](https://i.imgur.com/zbUzEox.jpg">
+  <img src="https://i.imgur.com/zbUzEox.jpg">
 <br/>
   
 ### Visualización Bokeh.

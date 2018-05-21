@@ -30,9 +30,14 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
  
  ### Supervised Learning.
  
+ Inicio del viaje. MACHINE LEARNING PIPELINE.
+ - [Student Record example](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Supervised%20Machine%20Learning/ScikitLearn/student_record_PMLB.ipynb)
+ 
  En este ejercicio se practicaron habilidades en importación web de la data, limpieza de datos, exploratory data analisis EDA, algoritmos de clasificación, todo bajo la metodología de trabajo CRISP-DM.
  
  - [Supervised Machine Learning example WINE EXAMPLE](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Supervised%20Machine%20Learning/ScikitLearn/ML%20White%20Wine-UNAL.ipynb)
+ 
+ 
 
 <br/>
 <p align="center">

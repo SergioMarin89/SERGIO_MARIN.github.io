@@ -33,6 +33,14 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
  Inicio del viaje. MACHINE LEARNING PIPELINE.
  - [Student Record example](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Supervised%20Machine%20Learning/ScikitLearn/student_record_PMLB.ipynb)
  
+ FEATURE ENGINEERING AND SELECTION - PRACTICAL MACHINE LEARNING BOOK. CHAPTER 4.
+ 
+ - [Feature Engineering on numerical data Mayo2018](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/FE_PMLB_Numerical_data.ipynb)
+ 
+ - [Feature Engineering on Categorical data Mayo2018]()
+ 
+ - [Feature Engineering - Feature Selection Junio2018]()
+ 
  En este ejercicio se practicaron habilidades en importación web de la data, limpieza de datos, exploratory data analisis EDA, algoritmos de clasificación, todo bajo la metodología de trabajo CRISP-DM.
  
  - [Supervised Machine Learning example WINE EXAMPLE](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Supervised%20Machine%20Learning/ScikitLearn/ML%20White%20Wine-UNAL.ipynb)

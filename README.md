@@ -37,7 +37,7 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
  
  - [Feature Engineering on numerical data Mayo2018](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/FE_PMLB_Numerical_data.ipynb)
  
- - [Feature Engineering on Categorical data Mayo2018]()
+ - [Feature Engineering on Categorical data Mayo2018](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/FE_PMLB_Categorical_data.ipynb)
  
  - [Feature Engineering - Feature Selection Junio2018]()
  

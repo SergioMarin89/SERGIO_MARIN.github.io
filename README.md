@@ -52,6 +52,15 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png">
 <br/>
 
+### Preprocessing data  - Statistical thinking.
+
+- [Statistiscal thinking - concepts with examples]()
+
+- [Ebola Data set]()
+
+- [Finch bird - statistical concepts]()
+
+
 ### Preprocessing data  - Dealing with missing values with Pandas.
 
 - [Dealing with messing values with Pandas](https://github.com/samp891216/Portafolio-SERGIO-MARIN/blob/master/Preprocessing/Missing%20values.ipynb)

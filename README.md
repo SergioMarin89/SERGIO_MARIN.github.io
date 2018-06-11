@@ -54,7 +54,7 @@ En este aparte se elaborarán ejercicios de series de tiempo con visualización 
 
 ### Preprocessing data  - Statistical thinking.
 
-- [Statistiscal thinking - concepts with examples]()
+- [Statistiscal thinking - concepts with examples](https://github.com/SergioMarin89/SERGIO_MARIN.github.io/blob/master/Preprocessing/Statistical_thinking.ipynb)
 
 - [Finch bird - statistical concepts](https://github.com/SergioMarin89/SERGIO_MARIN.github.io/blob/master/Preprocessing/Finch_analisis_estadistico.ipynb)
 
